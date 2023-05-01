@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Vasilis Botsos</h1>
-<h3 align="center">I am Computer Science student at Athens University of Economics and Business.</h3>
+<h3 align="center">I am postgraduate student in Cybersecurity at Athens University of Economics and Business.</h3>
 
 
 
