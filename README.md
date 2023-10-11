@@ -3,7 +3,8 @@
 
 
 
-- I’m currently working on a new Keylogger 
+- [x] New Keylogger project.
+- [ ] File Integrity Monitor Project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
